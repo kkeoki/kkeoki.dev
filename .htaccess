@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine On
+
+ErrorDocument 403 /error.html
+ErrorDocument 404 /error.html
+
